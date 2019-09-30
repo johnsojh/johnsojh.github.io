@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | A Little Ink</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 John H. Johnson Jr.</copyright><lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>John H. Johnson Jr.</title>
+      <link>/authors/john-h.-johnson-jr./</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/john-h.-johnson-jr./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caroline Breitenberger</title>
+      <link>/authors/caroline-breitenberger/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/caroline-breitenberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Karl Richter</title>
+      <link>/authors/florian-karl-richter/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/florian-karl-richter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel Moreira</title>
+      <link>/authors/joel-moreira/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/joel-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitaly Bergelson</title>
+      <link>/authors/vitaly-bergelson/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/vitaly-bergelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John H. Johnson</title>
+      <link>/authors/john-h.-johnson/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/john-h.-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neil Hindman</title>
+      <link>/authors/neil-hindman/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/neil-hindman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to my website &lt;strong&gt;A Little Ink&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m a mathematician at &lt;a href=&#34;https://math.osu.edu&#34; target=&#34;_blank&#34;&gt;the Ohio State University&lt;/a&gt;. My research interest is on the interplay between the algebraic structure of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Stone–Čech_compactification&#34; target=&#34;_blank&#34;&gt;Stone–Čech compactification&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Dynamical_system&#34; target=&#34;_blank&#34;&gt;dynamics&lt;/a&gt;, and combinatorics related to &lt;a href=&#34;https://en.wikipedia.org/wiki/Ramsey_theory&#34; target=&#34;_blank&#34;&gt;Ramsey theory&lt;/a&gt;. Connected to this work, I&amp;rsquo;ve written papers with &lt;a href=&#34;https://people.math.osu.edu/bergelson.1/&#34; target=&#34;_blank&#34;&gt;Vitaly Bergelson&lt;/a&gt;, &lt;a href=&#34;http://nhindman.us&#34; target=&#34;_blank&#34;&gt;Neil Hindman&lt;/a&gt; (my PhD advisor), &lt;a href=&#34;https://sites.math.northwestern.edu/~jmoreira/&#34; target=&#34;_blank&#34;&gt;Joel Moreira&lt;/a&gt;, and &lt;a href=&#34;https://sites.math.northwestern.edu/~fkr/&#34; target=&#34;_blank&#34;&gt;Florian Karl Richter&lt;/a&gt;. See my &lt;a href=&#34;#featured&#34; target=&#34;_blank&#34;&gt;Publications&lt;/a&gt; section for links to these papers.&lt;/p&gt;
+
+&lt;p&gt;My teaching interest is centered around using active learning and inclusive practices to promote and cultivate an environment which improves students&amp;rsquo; abilities to construct, organize, and demonstrate their knowledge of mathematics. Recently, I&amp;rsquo;ve been working with my colleague &lt;a href=&#34;http://www.ranthonyedmonds.com&#34; target=&#34;_blank&#34;&gt;Ranthony A.C. Edmonds&lt;/a&gt; developing a new service-learning course based on Margot Lee Sterley&amp;rsquo;s book &lt;a href=&#34;https://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians/dp/0062363603&#34; target=&#34;_blank&#34;&gt;Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race&lt;/a&gt;. I&amp;rsquo;m also currently serving as PI for the &lt;strong&gt;Building a Buckeye Calculus Community&lt;/strong&gt; as part of Ohio State&amp;rsquo;s participation as a &lt;a href=&#34;https://www.aplu.org/projects-and-initiatives/stem-education/seminal/phaseII.html&#34; target=&#34;_blank&#34;&gt;Phase II institution&lt;/a&gt; in &lt;a href=&#34;https://www.aplu.org/projects-and-initiatives/stem-education/seminal/&#34; target=&#34;_blank&#34;&gt;SEMINAL (Engagement in Mathematics through an Institutional Network for Active Learning)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, you can get a fuller sense of my professional background via my &lt;a href=&#34;/files/Curriculum%20Vitae.pdf&#34;&gt;Curriculum Vitae &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

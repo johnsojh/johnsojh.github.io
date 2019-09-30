@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | A Little Ink</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 John H. Johnson Jr.</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting the nilpotent polynomial Hales--Jewett theorem</title>
+      <link>/publication/johnson-2017269/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017269/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New polynomial and multidimensional extensions of classical partition results</title>
+      <link>/publication/bergelson-2017-du/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bergelson-2017-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new and simpler noncommutative central sets theorem</title>
+      <link>/publication/johnson-jr-2015-jp/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-jr-2015-jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images of \(C\) sets and related large sets under nonhomogeneous spectra</title>
+      <link>/publication/hindman-2012/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/hindman-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dynamical characterization of $C$ sets</title>
+      <link>/publication/john-dyn-2011/</link>
+      <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/john-dyn-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spectrum | A Little Ink</title>
+    <link>/tags/spectrum/</link>
+      <atom:link href="/tags/spectrum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spectrum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 John H. Johnson Jr.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Spectrum</title>
+      <link>/tags/spectrum/</link>
+    </image>
+    
+    <item>
+      <title>Images of \(C\) sets and related large sets under nonhomogeneous spectra</title>
+      <link>/publication/hindman-2012/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/hindman-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

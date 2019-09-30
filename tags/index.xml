@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | A Little Ink</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 John H. Johnson Jr.</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Algebra in the Stone--Čech compactification</title>
+      <link>/tags/algebra-in-the-stone-cech-compactification/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/algebra-in-the-stone-cech-compactification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nilpotent groups</title>
+      <link>/tags/nilpotent-groups/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/nilpotent-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nilprogressions</title>
+      <link>/tags/nilprogressions/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/nilprogressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polynomial Hales--Jewett Theorem</title>
+      <link>/tags/polynomial-hales-jewett-theorem/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/polynomial-hales-jewett-theorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramsey theory</title>
+      <link>/tags/ramsey-theory/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/ramsey-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syndetic sets</title>
+      <link>/tags/syndetic-sets/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/syndetic-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuber systems</title>
+      <link>/tags/deuber-systems/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/deuber-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partition regularity</title>
+      <link>/tags/partition-regularity/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/partition-regularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rado&#39;s Theorem</title>
+      <link>/tags/rados-theorem/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/rados-theorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C sets</title>
+      <link>/tags/c-sets/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/c-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central sets</title>
+      <link>/tags/central-sets/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/central-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central sets theorem</title>
+      <link>/tags/central-sets-theorem/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/central-sets-theorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J sets</title>
+      <link>/tags/j-sets/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/j-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stone–Čech compactification</title>
+      <link>/tags/stonecech-compactification/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/stonecech-compactification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafilters</title>
+      <link>/tags/ultrafilters/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/ultrafilters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central Set</title>
+      <link>/tags/central-set/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/central-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IP-Set</title>
+      <link>/tags/ip-set/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/ip-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum</title>
+      <link>/tags/spectrum/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/spectrum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

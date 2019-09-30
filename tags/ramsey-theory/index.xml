@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramsey theory | A Little Ink</title>
+    <link>/tags/ramsey-theory/</link>
+      <atom:link href="/tags/ramsey-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ramsey theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 John H. Johnson Jr.</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ramsey theory</title>
+      <link>/tags/ramsey-theory/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting the nilpotent polynomial Hales--Jewett theorem</title>
+      <link>/publication/johnson-2017269/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017269/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
